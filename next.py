@@ -1,6 +1,7 @@
 # blah
 # tyerlh
-#osiufjlsadjf
+#osiufjlsadjf more stuff here in conflict
+# and another line
 #sildasdifuasdflj
 wer
 wer
